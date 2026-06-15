@@ -44,7 +44,7 @@ CNN model for image classification.
 
 ## 📫 Connect with Me  
 - GitHub: [mohithanumolu](https://github.com/mohithanumolu)  
-- LinkedIn: *(add your LinkedIn link here)*  
-- Email: *(add your email here)*  
+- LinkedIn: *( https://www.linkedin.com/in/mohith-anumolu-807ab7304?utm_source=share_via&utm_content=profile&utm_medium=member_android)*  
+- Email: *(mohithanumolu@gmail.com)*  
 
 ---
