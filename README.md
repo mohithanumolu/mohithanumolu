@@ -16,7 +16,7 @@ Classifies text into positive/negative sentiment using NLP techniques.
 - Models: Logistic Regression, Naive Bayes  
 - Accuracy: ~85%  
 
-### 🔹 [Traffic Classifier SDN](https://github.com/mohithanumolu/Traffic-classifier-SDN)  
+### 🔹 [Traffic Classifier SDN](https://github.com/mohithanumolu/Traffic-classifier-SDN-)  
 Machine learning models for Software Defined Networking traffic flows.  
 - Algorithms: Logistic Regression, KNN, Random Forest  
 - Real-time monitoring with Open vSwitch  
