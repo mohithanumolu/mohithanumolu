@@ -1,3 +1,4 @@
+![Banner](https://github.com/mohithanumolu/mohithanumolu/blob/main/copilot_image_1781544150593.jpeg)
 # Hi, I'm Mohith 👋  
 
 🎓 B.Tech CSE (AIML) | Vikas College of Engineering & Technology (JNTUK Kakinada)  
